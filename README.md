@@ -10,4 +10,6 @@
 
 ![image](EthicsandExcellence.png)
 
+Reference Reference https://gate.iitk.ac.in/gate_syllabus.html
+
 Additional details https://github.com/alpaddesai/ArchitecturalProductDesign
