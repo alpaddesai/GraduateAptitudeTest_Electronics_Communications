@@ -6,6 +6,8 @@
 
 ![image](GATE_EC_3.JPG)
 
+![image](GATEECTEST.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](EthicsandExcellence.png)
